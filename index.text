@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="styles.css">
+    <title>Document</title>
+    
+<!-- Include this CDN for using icons     -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<body>
+    <!-- header section starts  -->
+    <header>
+<!--  This will contain the navigation menu -->     
+    </header>
+    <!-- header section ends -->
+    <!-- hero section starts  -->
+<!-- This will contain the brief description about our product (here, restaurant)  -->
+
+<!--  hero section ends -->
+</body>
+</html>
